@@ -1,0 +1,4 @@
+mode con: cols=132 lines=50
+$Host.UI.RawUI.BackgroundColor = "DarkBlue"
+$Host.UI.RawUI.ForegroundColor = "White"
+Clear-Host
